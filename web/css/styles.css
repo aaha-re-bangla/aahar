@@ -271,7 +271,7 @@ body {
         font-size: 6vw;
     }
     #menu-tile, #specials-tile {
-        width: 200px;
+        width: 100%;
         margin : 0 auto 15x;
         align-content: center;
         align-items: center;
