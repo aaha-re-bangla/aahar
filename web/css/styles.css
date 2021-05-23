@@ -273,6 +273,9 @@ body {
     #menu-tile, #specials-tile {
         width: 200px;
         margin : 0 auto 15x;
+        align-content: center;
+        align-items: center;
+        text-align: center;
     }
     .col-xxs-12 {
         position: relative;
