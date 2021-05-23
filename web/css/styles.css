@@ -270,13 +270,13 @@ body {
         padding-top: 3px;
         font-size: 6vw;
     }
-    #menu-tile, #specials-tile {
+    /*#menu-tile, #specials-tile {
         width: 100%;
         margin : 0 auto 15x;
         align-content: center;
         align-items: center;
         text-align: center;
-    }
+    }*/
     .col-xxs-12 {
         position: relative;
         min-height: 1px;
